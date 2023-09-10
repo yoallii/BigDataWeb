@@ -1,0 +1,28 @@
+{
+  "name": "bigdataweb",
+  "version": "1.0.0",
+  "description": "Thank you for using our template!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoallii/BigDataWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoallii/BigDataWeb/issues"
+  },
+  "homepage": "https://github.com/yoallii/BigDataWeb#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jsdom": "^21.1.1",
+    "three": "^0.151.3"
+  },
+  "dependencies": {
+    "node": "^19.8.1"
+  }
+}
